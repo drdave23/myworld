@@ -81,6 +81,12 @@
          "id":42,
          "name":"Tile Layer 9",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"playAudio",
+                 "type":"string",
+                 "value":"https:\/\/ice6.somafm.com\/groovesalad-128-mp3"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":40,
