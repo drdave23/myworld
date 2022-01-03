@@ -85,7 +85,7 @@
                 {
                  "name":"playAudio",
                  "type":"string",
-                 "value":"https:\/\/ice6.somafm.com\/groovesalad-128-mp3"
+                 "value":"https:\/\/ice6.somafm.com\/spacestation-128-mp3"
                 }],
          "type":"tilelayer",
          "visible":true,
