@@ -132,7 +132,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"raw.githubusercontent.com\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_carl"
+                 "value":"..\/..\/..\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_carl"
                 }],
          "type":"tilelayer",
          "visible":true,
