@@ -132,6 +132,11 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
+                 "value":"map2.json"
+                }, 
+                {
+                 "name":"exitUrl2",
+                 "type":"string",
                  "value":"..\/..\/..\/raumzeitlabor\/divoc-map-lounge\/master\/moehrlin.json#start_carl"
                 }],
          "type":"tilelayer",
